@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "name": "Arshi",
+      "email": "arshi@gmail.com",
+      "mobile": "11194923429",
+      "id": 1
+    },
+    {
+      "name": "shalu",
+      "email": "shalu@gmail.com",
+      "mobile": "8989749759",
+      "id": 2
+    },
+    {
+      "name": "sarita",
+      "email": "sarita@gmail.com",
+      "mobile": "77732749759",
+      "id": 3
+    },
+    {
+      "name": "soma",
+      "email": "soma@gmail.com",
+      "mobile": "808897497",
+      "id": 4
+    },
+    {
+      "name": "Anshika",
+      "email": "anshika@gmail.com",
+      "mobile": "8923449759",
+      "id": 2
+    }
+  ]
+}
